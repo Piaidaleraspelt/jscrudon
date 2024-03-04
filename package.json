@@ -1,0 +1,26 @@
+{
+  "name": "jscrudon",
+  "version": "1.0.0",
+  "description": "A simple Node.js module for performing CRUD operations on JSON files.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Piaidaleraspelt/jscrudon.git"
+  },
+  "keywords": [
+    "json",
+    "crud",
+    "file",
+    "node",
+    "node.js"
+  ],
+  "author": "Piaidaleraspelt",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
